@@ -1,13 +1,7 @@
-//
-//  AppDelegate.swift
-//  WeatherAppv1.0.0
-//
-//  Created by admin on 22.09.21.
-//
 
 import UIKit
 
-@main
+@UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
 
@@ -33,4 +27,3 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
 
 }
-
